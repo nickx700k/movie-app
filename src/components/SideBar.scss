@@ -1,0 +1,103 @@
+.sidebar {
+  width: 220px;
+
+  background-color: #fff;
+  box-shadow: 4px 2px 8px -3px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 4px 2px 8px -3px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 4px 2px 8px -3px rgba(0, 0, 0, 0.75);
+  &--container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    &-head {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 0;
+      border-bottom: 1px solid var(--text-blue-color);
+      width: 100%;
+      &--icon {
+        font-size: 3rem;
+        color: var(--text-blue-color);
+      }
+      &--icon.red {
+        color: var(--text-red-color);
+      }
+      &--h3 {
+        font-weight: 500;
+        font-size: 1rem;
+        color: var(--text-blue-color);
+      }
+      &--h3.red {
+        color: var(--text-red-color);
+      }
+    }
+    &-head.red {
+      border-bottom: 1px solid var(--text-red-color);
+    }
+    &-body {
+      width: 100%;
+
+      &--ul {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        & a {
+          text-decoration: none;
+        }
+        &-li {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 20px;
+          background-color: #eaeaea;
+          width: 150px;
+          border-radius: 10px;
+          transition: all 0.3s;
+
+          &--icon {
+            font-size: 2rem;
+          }
+          &--icon.red {
+            color: var(--text-red-color);
+          }
+          &--h5 {
+            font-size: 1rem;
+          }
+          &--h5.red {
+            color: var(--text-red-color);
+          }
+        }
+      }
+    }
+  }
+}
+
+.sidebar.dark {
+  background-color: #232323;
+  color: #fff;
+}
+
+.click {
+  cursor: pointer;
+}
+
+.hover {
+  color: var(--text-blue-color);
+}
+.hover.red {
+  color: var(--text-red-color);
+}
+
+.hover:hover {
+  background-color: var(--text-blue-color);
+  color: #fff;
+}
+
+.hover.red:hover {
+  background-color: var(--text-red-color);
+  color: #fff;
+}

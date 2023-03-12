@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Home",
+    "icon": "bx bx-home",
+    "route": "/"
+  },
+  {
+    "title": "Sign Up",
+    "icon": "bx bx-user-plus",
+    "route": "/signup"
+  },
+  {
+    "title": "Sign In",
+    "icon": "bx bx-user",
+    "route": "/signin"
+  }
+]

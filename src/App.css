@@ -1,0 +1,19 @@
+:root {
+  --text-color: #fff;
+  --text-blue-color: #001eff;
+  --text-red-color: #ff0000;
+  --bg-color: #e7e7e7;
+}
+
+.App {
+  background-color: #eaeaea;
+  display: flex;
+}
+.App.dark {
+  background-color: #232323;
+  color: #fff;
+}
+.pages {
+  width: 83vw;
+  min-height: 100vh;
+}

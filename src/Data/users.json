@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "admin",
+      "name": "Nick Karsslon",
+      "email": "nickkarsslon@gmail.com",
+      "password": "nn"
+    },
+    {
+      "id": "nickx700k",
+      "name": "Nick Karsslon",
+      "email": "nickkarsslon@gmail.com",
+      "password": "nkX@3319026"
+    },
+    {
+      "id": "nickkarsslon",
+      "name": "Nick Karsslon",
+      "email": "nickkarsslon@gmail.com",
+      "password": "nkX@3319026"
+    },
+    {
+      "id": "نصیراحمد",
+      "name": "محمد نصیر",
+      "email": "admiral0796@gmail.com",
+      "password": "adX@3319026"
+    }
+  ]
+}

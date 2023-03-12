@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Elkizi 2022",
+      "genre": ["Derama"],
+      "country": "Turkey",
+      "language": "Turkey",
+      "year": "2022",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/03/615cd9a161d9a.jpg"
+    },
+    {
+      "id": "2",
+      "title": "We Have Ghost 2022",
+      "genre": ["Family", "Comedy", "Adventure"],
+      "country": "USA",
+      "language": "English",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/we-have-a-ghost.255099.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Ant-Man and the Wasp Quantumania 2023",
+      "genre": ["Action", "Comedy", "Adventure"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/Ant-Man-and-the-Wasp-Quantumania-2023.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Die Hart The Movie 2023",
+      "genre": ["Action", "Comedy"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/63f8dac3286b8.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Black Panther Wakanda Forever 2022",
+      "genre": ["Action", "Comedy", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/01/1R1m0mua2q0QZf6t8VLgSlkjg4T-350x525.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Whale 2022",
+      "genre": ["Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/The-Whale-2022.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Knock at the Cabin 2023",
+      "genre": ["Action", "Comedy", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/Knock-at-the-Cabin-2023-1.jpg"
+    },
+    {
+      "id": "8",
+      "title": "New Gods Yang Jian 2022",
+      "genre": ["Action", "Animation", "Fantasy"],
+      "country": "China",
+      "language": "Mandarin",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/tt19757204.jpg"
+    },
+    {
+      "id": "9",
+      "title": "An Action Hero 2022",
+      "genre": ["Action", "Criminal", "Comedy"],
+      "country": "India",
+      "language": "Hindi",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/tt15600222.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Blood 2022",
+      "genre": ["Exiting", "Scary"],
+      "country": "USA",
+      "language": "English",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/tt13280054.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Narvik Hitler’s First Defeat 2022",
+      "genre": ["Historical", "War"],
+      "country": "Norway",
+      "language": "Norwegian",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/tt9737876.jpg"
+    },
+    {
+      "id": "12",
+      "title": "The Shape of Water 2017",
+      "genre": ["Romantic", "Fantasy", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2017",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/The-Shape-of-Water-2017.jpg"
+    },
+    {
+      "id": "13",
+      "title": "The Flash 2023",
+      "genre": ["Action", "Comedy", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/The-Flash-2023-1.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Viking Wolf 2022",
+      "genre": ["Scary", "Exiting"],
+      "country": "USA",
+      "language": "English",
+      "year": "2022",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/Viking-Wolf-2022.jpg"
+    },
+    {
+      "id": "15",
+      "title": "San Andreas 2015",
+      "genre": ["Action", "Adventure", "Exiting"],
+      "country": "USA",
+      "language": "English",
+      "year": "2015",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2021/01/San-Andreas-2015-1.jpeg"
+    },
+    {
+      "id": "16",
+      "title": "The Quake 2018",
+      "genre": ["Action", "Exiting", "Derama"],
+      "country": "Norway",
+      "language": "Norwegian",
+      "year": "2018",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/The-Quake-2018.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Legion of Super-Heroes 2023",
+      "genre": ["Action", "Animation", "Science Fiction"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/tt22769820.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Plane 2023",
+      "genre": ["Action", "Exiting"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/plane-63d94eb8a24f4.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Home 2015",
+      "genre": ["Animation", "Comedy", "Adventure"],
+      "country": "USA",
+      "language": "English",
+      "year": "2015",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/Home-2015.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Gone 2012",
+      "genre": ["Action", "Mysterious", "Adventure"],
+      "country": "USA",
+      "language": "English",
+      "year": "2012",
+      "kind": "Movie",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/Gone-2012.jpeg"
+    },
+    {
+      "id": "21",
+      "title": "The Last of Us 2023",
+      "genre": ["Action", "Adventure", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2023",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2023/02/The-Last-of-Us-2023.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Carnival Row 2020",
+      "genre": ["Criminal", "Mysterious", "Derama", "Fantasy"],
+      "country": "USA",
+      "language": "English",
+      "year": "2020",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2020/12/carnival-row-second-season.254618.jpg"
+    },
+    {
+      "id": "23",
+      "title": "The Blacklist",
+      "genre": ["Criminal", "Mysterious", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2015",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2022/01/266189-7.jpg"
+    },
+    {
+      "id": "24",
+      "title": "The Flash",
+      "genre": ["Action", "Science Fiction", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2015",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2022/04/photo_2022-05-20_10-51-25.jpg"
+    },
+    {
+      "id": "25",
+      "title": "Prison Break",
+      "genre": ["Action", "Criminal", "Derama"],
+      "country": "USA",
+      "language": "English",
+      "year": "2015",
+      "kind": "Series",
+      "image": "https://golchindlz.top/wp-content/uploads/2021/07/5c9e0f1b8e6d0-1.jpg"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+.home {
+  &--container {
+    &-header {
+      height: 70px;
+      background-color: var(--text-blue-color);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: #fff;
+      padding: 0 30px;
+      &-search {
+        width: 600px;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        &--input {
+          width: 550px;
+          height: 35px;
+          border-radius: 10px;
+          border: none;
+          outline: none;
+        }
+        &--input[type="text"] {
+          padding-left: 10px;
+        }
+        & i {
+          position: absolute;
+          color: var(--text-blue-color);
+          right: 30px;
+          font-size: 2rem;
+          cursor: pointer;
+        }
+        & i.red {
+          color: var(--text-red-color);
+        }
+      }
+      &--h2.red {
+        background-color: var(--text-red-color);
+      }
+    }
+    &-header.red {
+      background-color: var(--text-red-color);
+    }
+    &-body {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      padding: 30px;
+      gap: 20px;
+    }
+  }
+}
+
+.noData {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--text-blue-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 40px;
+  border-radius: 20px;
+  &--icon {
+    color: #fff;
+    font-size: 7rem;
+  }
+  &--h1 {
+    color: #fff;
+    font-size: 2rem;
+  }
+}
+
+.noData.red {
+  background-color: var(--text-red-color);
+}

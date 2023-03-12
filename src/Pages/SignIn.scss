@@ -1,0 +1,113 @@
+.signin {
+  position: relative;
+  min-height: 100vh;
+  &--message {
+    position: absolute;
+    display: block;
+    z-index: 10;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #1c1c1c;
+    animation: fade 0.1s ease-in;
+    padding: 10px 30px;
+    color: #fff;
+  }
+  &--container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 400px;
+
+    &--head {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: var(--text-blue-color);
+      height: 70px;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      &--h2 {
+        color: #fff;
+      }
+    }
+    &--head.red {
+      background-color: var(--text-red-color);
+    }
+    &--body {
+      background-color: #fff;
+      padding: 30px;
+      &--form {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        gap: 30px;
+        &-all {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          &--icon {
+            font-size: 2rem;
+            padding: 10px;
+            background-color: var(--text-blue-color);
+            color: #fff;
+            border-top-left-radius: 10px;
+            border-bottom-left-radius: 10px;
+          }
+          &--icon.red {
+            background-color: var(--text-red-color);
+          }
+          &--input {
+            padding: 19px;
+            border: none;
+            outline: none;
+            background-color: #eaeaea;
+            width: 250px;
+            border-top-right-radius: 10px;
+            border-bottom-right-radius: 10px;
+          }
+          &--input[type="text"],
+          &--input[type="email"],
+          &--input[type="password"] {
+            color: var(--text-blue-color);
+          }
+          &--input[type="text"].red,
+          &--input[type="email"].red,
+          &--input[type="password"].red {
+            color: var(--text-red-color);
+          }
+          &--btn {
+            padding: 15px 40px;
+            border: none;
+            cursor: pointer;
+            background-color: var(--text-blue-color);
+            color: #fff;
+            font-size: 1.1rem;
+            border-radius: 10px;
+          }
+          &--btn.red {
+            background-color: var(--text-red-color);
+          }
+        }
+      }
+    }
+    &--body.dark {
+      background-color: #1c1c1c;
+      color: #fff;
+    }
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+    top: -20px;
+  }
+  100% {
+    opacity: 1;
+    top: 50%;
+  }
+}
